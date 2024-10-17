@@ -1,3 +1,1 @@
-Spring boot branch master
-MySql branch master
-React Js branch ui
+Spring boot,MySql,React Js(branch ui)
